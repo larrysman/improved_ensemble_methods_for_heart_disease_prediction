@@ -6,7 +6,9 @@ This is project aimed at predicting the heart diseases. It is a typical classifi
 Leveraged on the improved performance of high performing algorithms. Multiple algorithms were trained on the dataset and evaluating each metrics to determine which of the algorithms is best in terms of performance metrics - `[accuracy, precision, recall, f1_score]`.
 After a comprehensive hyperparameter tunning on all models, a voting classifier is used to vote the best algorithms and the architecture designed.
 
-#### Metrics Evaluation
+#### Metrics Evaluation for best model and voting classifier
 ![class_report](https://github.com/user-attachments/assets/b0c2f33a-cb10-4c01-9aab-9f49d819fec5)
 
-Clearly, the model makes prediction and identify each labels correctly as measured by the performance metrics.
+![img](https://github.com/user-attachments/assets/60b446f3-4210-4e21-97fc-e9359aa23ef2)
+
+Clearly, the model makes prediction and identify each labels correctly as measured by the performance metrics using the combine effects of multi-agent performing algorithms.
